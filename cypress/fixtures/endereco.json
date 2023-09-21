@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Antonio",
+        "sobrenome": "Fagundes",
+        "empresa": "EBAC",
+        "endereco": "Av. Higienópolis",
+        "numero": "2545",
+        "país": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "01000100",
+        "telefone": "11912345678",
+        "email": "antonio@fagundes.com"
+    },
+    {
+        "nome": "Malu",
+        "sobrenome": "Mader",
+        "empresa": "EBAC",
+        "endereco": "Av. Brasil",
+        "numero": "1145",
+        "país": "Brasil",
+        "cidade": "Jundiaí",
+        "estado": "São Paulo",
+        "cep": "02462020",
+        "telefone": "11956772145",
+        "email": "malu@mader.com"
+    },
+    {
+        "nome": "Cacau",
+        "sobrenome": "Show",
+        "empresa": "EBAC",
+        "endereco": "Rua do Oratório",
+        "numero": "67",
+        "país": "Brasil",
+        "cidade": "Guarulhos",
+        "estado": "São Paulo",
+        "cep": "09876543",
+        "telefone": "1192468135",
+        "email": "cacau@show.com"
+    }
+]
